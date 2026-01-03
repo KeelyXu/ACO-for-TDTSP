@@ -1,5 +1,7 @@
 # Theme Park Route Optimizer: ACO for TDTSP
 
+![Date](https://img.shields.io/badge/Completion_Date-October_2024-blue.svg)
+
 **Tired of spending hours in queues instead of enjoying rides?** This project uses **Ant Colony Optimization (ACO)** to solve one of the biggest challenges in theme park visits: finding the optimal route that minimizes your total time spent waiting, walking, and playing.
 
 Long queue times are a major pain point that can significantly diminish your theme park experience. By intelligently scheduling your visit order based on real-world queue data, this tool helps you make the most of your day—whether you're visiting Shanghai Disneyland (we take this as an example), Universal Studios, or any other park available on [queue-times.com](https://queue-times.com/).
